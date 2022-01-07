@@ -1,4 +1,6 @@
-#title {
-  color: #000;
-  background-color: transparent;
+#main {
+  background-color: #808080;
+  font-size: 15px;
+  padding: 20px 10vw;
+  text-align: center;
 }
