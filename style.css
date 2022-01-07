@@ -22,7 +22,9 @@ html {
   width: 100vw;
 }
 #image {
-  width: 50rem;
+  display: block;
+  margin: 0px 21vw;
+  max-width: 50rem;
 }
 #tribute-info h2 {
   text-align: center;
